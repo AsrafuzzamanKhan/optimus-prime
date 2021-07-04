@@ -10,7 +10,7 @@ section.top-banner{
     
 }
 .top-banner{
-    background-image: url(/img/1536689.jpg);
+    background-image: url(img/1536689.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,7 +45,7 @@ a.link-button {
 section.middle{
     display: flex;
     background: rgb(241, 240, 238);
-    background-image: url(/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat ;
     background-position: right;
     
@@ -55,7 +55,7 @@ section.middle{
     display: flex;
 }
 section.last{
-    background-image: url(/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     margin-bottom: 30px;
@@ -68,7 +68,6 @@ section.last h1{
 .half{
     width: 40%;  
     padding-left: 20px;
-    
     margin-left: 5%;
     margin-right: 5%;
     box-shadow: 10px 10px 40px grey;
